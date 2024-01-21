@@ -1,0 +1,3 @@
+Naam;Y minimaal lim;Y maximaallim;Y minimaal max;Y maximaal start;X start;Y eenheid;Auto;Y Sym
+S loadcell;-4000000;4000000;-500000;500000;5;-;False;True
+NEMA 23 interval 10;0;10;0;10;5;RPS;False;False
